@@ -1,0 +1,6 @@
+.places__list-item {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(460px, 1fr));
+    justify-content: space-between;
+    align-content: space-between;
+}
