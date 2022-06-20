@@ -1,0 +1,10 @@
+.main-info__title{
+    max-width: 720px;
+    margin: 0 auto;
+    color: #FFFFFF;
+    font-size: 96px;
+    font-weight: 900;
+    line-height: 1.04;
+    text-align: center;
+    padding-bottom: 32px;
+}

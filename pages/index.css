@@ -10,4 +10,15 @@
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/_place/_page/header_place_page.css);
 @import url(../blocks/logo/logo.css);
+/*main-info*/
+@import url(../blocks/main-info/main-info.css);
+@import url(../blocks/main-info/__title/main-info__title.css);
+@import url(../blocks/main-info/__subtitle/main-info__subtitle.css);
+@import url(../blocks/main-info/__img/main-info__img.css);
+@import url(../blocks/main-info/__caption/main-info__caption.css);
+@import url(../blocks/main-info/__image/main-info__image.css);
+@import url();
+@import url();
+@import url();
+@import url();
 @import url();

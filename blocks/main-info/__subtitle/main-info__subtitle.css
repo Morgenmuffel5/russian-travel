@@ -1,0 +1,11 @@
+.main-info__subtitle {
+    max-width: 50%;
+    margin: 0 auto;
+    color: #FFFFFF;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 400;
+    padding-bottom: 64px;
+    text-align: center;
+    
+}
