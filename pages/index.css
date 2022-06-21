@@ -42,7 +42,12 @@
 @import url(../blocks/places/__image/places__image.css);
 @import url(../blocks/places/__list/places__list.css);
 @import url(../blocks/places/__list-item/places__list-item.css);
-@import url();
-@import url();
+/*cover*/
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/_gaps/cover_gaps.css);
+@import url(../blocks/cover/__link/cover__link.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__content/cover__content.css);
 @import url();
 @import url();
