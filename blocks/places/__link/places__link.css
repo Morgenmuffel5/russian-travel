@@ -4,3 +4,7 @@
     font-size: 18px;
     line-height: 1.22;
 }
+
+.places__link:hover {
+    opacity: .8;
+}

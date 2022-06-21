@@ -5,3 +5,7 @@
     line-height: 1.12;
     text-decoration: none;
 }
+
+.menu__link:hover {
+    opacity: .8;
+}
