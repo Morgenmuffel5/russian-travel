@@ -1,0 +1,10 @@
+.places__text-area {
+    max-width: 100%;
+}
+
+@media all and (max-width: 320px) {
+    .places__text-area {
+        max-width: 288px;
+        margin: auto;
+    }
+}

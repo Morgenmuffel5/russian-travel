@@ -9,3 +9,10 @@
 .places__text:last-child {
     padding: 0;
 }
+
+@media all and (max-width: 768px) {
+    .places__text {
+        font-size: 16px;
+        padding-bottom: 25px;
+    }
+}
