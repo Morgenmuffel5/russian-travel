@@ -10,7 +10,13 @@
     }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
+    .footer {
+        min-width: calc(100% - 16px*2);
+    }
+}
+
+@media all and (max-width: 700px) {
     .footer {
         min-width: calc(100% - 16px*2);
         flex-direction: column;
