@@ -1,5 +1,5 @@
 .main-info__subtitle {
-    max-width: 50%;
+    max-width: 640px;
     margin: 0 auto;
     font-size: 30px;
     line-height: 1.2;
@@ -7,4 +7,18 @@
     padding-bottom: 64px;
     text-align: center;
     
+}
+
+@media all and (max-width: 1024px){
+    .main-info__subtitle {
+        padding-bottom: 56px;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .main-info__subtitle {
+        font-size: 16px;
+        line-height: 1.25;
+        padding-bottom: 40px;
+    }
 }

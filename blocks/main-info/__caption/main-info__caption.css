@@ -1,7 +1,19 @@
-.main-info__caption{
+.main-info__caption {
     text-transform: uppercase;
     font-size: 10px;
     line-height: 1.4;
     font-weight: 400;
     text-align: left;
+}
+
+@media all and (max-width: 768px) {
+    .main-info__caption {
+        padding-left: 24px;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .main-info__caption {
+        padding-left: 16px;
+    }
 }

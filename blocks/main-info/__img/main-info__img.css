@@ -1,3 +1,23 @@
 .main-info__img {
     width: 100%;
+    height: 615px;
+    margin-bottom: 8px;
+}
+
+@media all and (max-width: 1024px) {
+    .main-info__img {
+        height: 580px;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .main-info__img {
+        height: 480px;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .main-info__img {
+        height: 200px;
+    }
 }
