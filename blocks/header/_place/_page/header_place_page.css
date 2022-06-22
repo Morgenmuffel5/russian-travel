@@ -1,6 +1,7 @@
 .header_place_page {
     margin: auto;
     padding-top: 28px;
+    box-sizing: border-box;
 }
 
 @media all and (max-width: 320px) {

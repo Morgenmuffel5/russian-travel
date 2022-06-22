@@ -1,5 +1,6 @@
 .places__text-area {
     max-width: 100%;
+    box-sizing: border-box;
 }
 
 @media all and (max-width: 320px) {

@@ -4,6 +4,7 @@
     line-height: 1.4;
     font-weight: 400;
     text-align: left;
+    box-sizing: border-box;
 }
 
 @media all and (max-width: 768px) {

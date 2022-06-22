@@ -1,5 +1,6 @@
 .cover_gaps {
     margin: 0 auto 92px auto;
+    box-sizing: border-box;
 }
 
 @media all and (max-width: 768px) {

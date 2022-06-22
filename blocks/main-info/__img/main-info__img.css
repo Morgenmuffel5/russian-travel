@@ -1,4 +1,5 @@
 .main-info__img {
     width: 100%;
     margin-bottom: 8px;
+    box-sizing: border-box;
 }

@@ -1,5 +1,6 @@
 .places {
     max-width: calc(100% - 148px*2);
+    box-sizing: border-box;
 }
 
 @media all and (max-width: 1024px) {

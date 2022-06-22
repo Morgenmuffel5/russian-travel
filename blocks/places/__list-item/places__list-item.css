@@ -4,6 +4,7 @@
     row-gap: 48px;
     column-gap: 40px;
     padding-bottom: 80px;
+    box-sizing: border-box;
 }
 
 .places__list-item:last-child {

@@ -4,6 +4,7 @@
     font-size: 24px;
     line-height: 1.17;
     font-weight: 400;
+    box-sizing: border-box;
 }
 
 .header__link:nth-of-type(1) {

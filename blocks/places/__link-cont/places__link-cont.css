@@ -4,6 +4,7 @@
     flex-direction: column;
     height: 46px;
     justify-content: space-between;
+    box-sizing: border-box;
 }
 
 @media all and (max-width: 320px) {
