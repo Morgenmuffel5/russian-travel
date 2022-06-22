@@ -1,3 +1,15 @@
 .intro_gaps {
-    margin: 0 auto 96px auto;
+    margin: 0 auto 92px auto;
+}
+
+@media all and (max-width: 768px) {
+    .intro_gaps {
+        margin: 0 auto 88px auto;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .intro_gaps {
+        margin: 0 auto 64px auto;
+    }
 }
