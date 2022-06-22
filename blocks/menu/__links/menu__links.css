@@ -4,3 +4,9 @@
     display: flex;
     margin: 0;
 }
+
+@media all and (max-width: 320px) {
+    .menu__links {
+        flex-direction: column;
+    }
+}
