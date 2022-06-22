@@ -23,4 +23,4 @@
 
 **Ссылка на сайт**
 
-Ссылка на проект - 
+Ссылка на проект - https://morgenmuffel5.github.io/russian-travel/index.html 
