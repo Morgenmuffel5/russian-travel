@@ -10,6 +10,7 @@
     align-items: center;
     position: relative;
     z-index: 1;
+    background-repeat: no-repeat;
 }
 
 .cover__link::before {
@@ -26,5 +27,23 @@
 }
 .cover__link:hover::before {
     opacity: .8;
+}
+
+@media all and (max-width: 1024px) {
+    .cover__link {
+        height: 640px;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .cover__link {
+        height: 480px;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .cover__link {
+        height: 200px;
+    }
 }
 
