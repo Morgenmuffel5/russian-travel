@@ -1,7 +1,7 @@
 .cover__link {
     width: 100%;
     background-image: url(../../../images/cover-trains.jpg);
-    height: 740px;
+    min-height: 740px;
     background-size: cover;
     text-decoration: none;
     display: flex;
@@ -34,6 +34,6 @@
         где блок занимает 100vw чтобы блок сжимался пропорционально*/
 @media all and (max-width: 1184px) {
     .cover__link {
-        height: 62.5vw;
+        min-height: 62.5vw;
     }
 }

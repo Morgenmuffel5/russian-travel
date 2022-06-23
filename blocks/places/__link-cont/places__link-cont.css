@@ -2,8 +2,6 @@
     align-self: end;
     display: flex;
     flex-direction: column;
-    height: 46px;
-    justify-content: space-between;
     box-sizing: border-box;
 }
 

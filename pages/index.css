@@ -10,7 +10,6 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__link/header__link.css);
-@import url(../blocks/header/_place/_page/header_place_page.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/header/__link/_active/header__link_active.css);
 /*main-info*/
@@ -20,10 +19,8 @@
 @import url(../blocks/main-info/__img/main-info__img.css);
 @import url(../blocks/main-info/__caption/main-info__caption.css);
 @import url(../blocks/main-info/__image/main-info__image.css);
-@import url(../blocks/main-info/_gaps/main-info_gaps.css);
 /*intro*/
 @import url(../blocks/intro/intro.css);
-@import url(../blocks/intro/_gaps/intro_gaps.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
@@ -31,11 +28,9 @@
 @import url(../blocks/intro/__list-item/_weight/_normal/intro__list-item_weight_normal.css);
 /*gallery*/
 @import url(../blocks/gallery/gallery.css);
-@import url(../blocks/gallery/_gaps/gallery_gaps.css);
 @import url(../blocks/gallery/__photo/gallery__photo.css);
 /*places*/
 @import url(../blocks/places/places.css);
-@import url(../blocks/places/_gaps/plaes_gaps.css);
 @import url(../blocks/places/__title/places__title.css);
 @import url(../blocks/places/__link-cont/places__link-cont.css);
 @import url(../blocks/places/__url/places__url.css);
@@ -45,25 +40,17 @@
 @import url(../blocks/places/__image/places__image.css);
 @import url(../blocks/places/__list/places__list.css);
 @import url(../blocks/places/__list-item/places__list-item.css);
+@import url(../blocks/places/__article/places__article.css);
 /*cover*/
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/cover/_gaps/cover_gaps.css);
 @import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__content/cover__content.css);
 /*footer*/
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/_gaps/footer__gaps.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/menu/menu.css);
 @import url(../blocks/menu/__links/menu__links.css);
 @import url(../blocks/menu/__item/menu__item.css);
 @import url(../blocks/menu/__link/menu__link.css);
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();

@@ -1,6 +1,7 @@
 .intro {
     max-width: calc(100% - 148px*2);
     box-sizing: border-box;
+    margin: 0 auto 92px auto;
 }
 
 @media all and (max-width: 1024px) {
@@ -12,11 +13,14 @@
 @media all and (max-width: 768px) {
     .intro {
         max-width: calc(100% - 24px*2);
+        margin: 0 auto 88px auto;
     }
 }
 
 @media all and (max-width: 320px) {
     .intro {
         max-width: calc(100% - 16px*2);
+        margin: 0 auto 64px auto;
     }
 }
+
